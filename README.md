@@ -8,17 +8,17 @@ RubyMine 2018.3.5 x64.
 It was created using Ruby version 2.3.3p222 and Rails
 version 5.1.6.2.
 
-It includes Ruby, Ruby on Rails, CSS, SCSS, HTML.ERB, and sqlite3 files.
+It includes Ruby, Ruby on Rails, CSS, SCSS, HTML.ERB, JavaScript and sqlite3 files.
 
-To run the application in RubyMine, complete the following:
+To run the application in RubyMine, complete the following after opening the 
+project in RubyMine:
 
 1. Type "rails server -p3000" in the terminal.
 
 2. Wait until the terminal runs and ends with "Use Ctrl-C to stop".
 
 3. Open a web browser (I use Chrome) and type in the address 
-"127.0.0.1:3000/movies".  Note that the IP address "127.0.0.1" may
-be different on your computer.
+http://localhost:3000/movies.
 
 4. The application itself should be self-explanatory.  Click on 
 "Learn More" at any place to select a movie or an actor, and learn
