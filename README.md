@@ -3,7 +3,7 @@
 Movie Web Application with lists of Movies and Actors.
 
 This is a Ruby on Rails application that was created in 
-RubyMine 2018.2.5 x64.
+RubyMine 2018.3.5 x64.
 
 It was created using Ruby version 2.3.3p222 and Rails
 version 5.1.6.2.
