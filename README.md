@@ -1,24 +1,30 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Movie Web Application with lists of Movies and Actors.
 
-Things you may want to cover:
+This is a Ruby on Rails application that was created in 
+RubyMine 2018.2.5 x64.
 
-* Ruby version
+It was created using Ruby version 2.3.3p222 and Rails
+version 5.1.6.2.
 
-* System dependencies
+It includes Ruby, Ruby on Rails, CSS, SCSS, HTML.ERB, and sqlite3 files.
 
-* Configuration
+To run the application in RubyMine, complete the following:
 
-* Database creation
+1. Type "rails server -p3000" in the terminal.
 
-* Database initialization
+2. Wait until the terminal runs and ends with "Use Ctrl-C to stop".
 
-* How to run the test suite
+3. Open a web browser (I use Chrome) and type in the address 
+"127.0.0.1:3000/movies".  Note that the IP address "127.0.0.1" may
+be different on your computer.
 
-* Services (job queues, cache servers, search engines, etc.)
+4. The application itself should be self-explanatory.  Click on 
+"Learn More" at any place to select a movie or an actor, and learn
+more about the movie and/or actor.  To return to the Movie menu, 
+click "Movies" on the menu at the top.  To return to the Actor menu, 
+click "Actors" at the top.
 
-* Deployment instructions
-
-* ...
+5. To close the application, type "Ctrl-C" in the terminal and "y" 
+to terminate batch job.
